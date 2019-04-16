@@ -16,16 +16,16 @@
 
 ### 可配属性
 <br>
- - width ： [Number, String] 默认100
+ - width ： [Number, String]   默认100
  <br>
- - height ： [Number, String] 默认100
+ - height ： [Number, String]   默认100
  <br>
- - background：String 默认#f1f1f1
+ - background： String   默认#f1f1f1
  <br>
- - src：资源地址 默认''
+ - src： String   资源地址 默认''
  <br>
- - lazyLoad： 是否懒加载 默认true
+ - lazyLoad： Boolean   是否懒加载 默认true
  <br>
- - lazyLoadTime：延迟懒加载时间（单位ms） 默认100
+ - lazyLoadTime： Number   延迟懒加载时间（单位ms） 默认100
  <br>
 
