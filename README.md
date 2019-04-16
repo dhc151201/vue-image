@@ -1,5 +1,5 @@
 # vue-image 
-## 自动识别pc/移动端，优先使用性能优越的IntersectionObserver，向下兼容，并积极跟进谷歌推进的loading=‘lazy’
+## 自动识别pc、移动端，支持懒加载，优先使用性能优越的IntersectionObserver，向下兼容，并积极跟进谷歌推进的loading=‘lazy’
 
  - 注册
 ```
