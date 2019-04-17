@@ -30,7 +30,7 @@
  <br><br>
  * radius ： [Number, String]  自定义圆角  默认-1
  <br><br>
- * block： Boolean   是否块级 默认true
+ * block： Boolean   是否块级 默认false
  <br><br>
  * type：  String   默认normal  可选项[ normal、slight、round ]
  <br><br>
