@@ -1,4 +1,4 @@
-# vue-image 
+# vue-image
 ### - 自动识别pc、移动端，
 ### - 支持懒加载，并积极跟进谷歌推进的loading=‘lazy’
 ### - 优先使用性能优越的IntersectionObserver，向下兼容
@@ -27,5 +27,11 @@
  * lazyLoad： Boolean   是否懒加载 默认true
  <br><br>
  * lazyLoadTime： Number   延迟懒加载时间（单位ms） 默认100
- <br>
+ <br><br>
+ * radius ： [Number, String]  自定义圆角  默认-1
+ <br><br>
+ * block： Boolean   是否块级 默认true
+ <br><br>
+ * type：  String   默认normal  可选项[ normal、slight、round ]
+ <br><br>
 
