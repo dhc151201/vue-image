@@ -34,4 +34,8 @@
  <br><br>
  * type：  String   默认normal  可选项[ normal、slight、round ]
  <br><br>
+ * hoverAnimation：Boolean hover时是否启用动画 默认false
+ <br><br>
+ * boxshadow：[Boolean, String]  是否启用阴影  默认false 还可配任何有效的box-shadow值，一旦配置也就默认为true
+ <br><br>
 
