@@ -20,7 +20,7 @@
  <br><br>
  * height ： [Number, String]   默认100
  <br><br>
- * background： String   默认#f1f1f1
+ * background： String  图片资源loaded之前的背景色，可以起到占位作用   默认#f1f1f1
  <br><br>
  * src： String   资源地址 默认''
  <br><br>
